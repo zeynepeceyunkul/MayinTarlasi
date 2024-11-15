@@ -1,0 +1,7 @@
+C:\Users\User\source\repos\Mayın\Mayın\bin\Debug\Mayın.exe.config
+C:\Users\User\source\repos\Mayın\Mayın\bin\Debug\Mayın.exe
+C:\Users\User\source\repos\Mayın\Mayın\bin\Debug\Mayın.pdb
+C:\Users\User\source\repos\Mayın\Mayın\obj\Debug\Mayın.csprojAssemblyReference.cache
+C:\Users\User\source\repos\Mayın\Mayın\obj\Debug\Mayın.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Mayın\Mayın\obj\Debug\Mayın.exe
+C:\Users\User\source\repos\Mayın\Mayın\obj\Debug\Mayın.pdb
